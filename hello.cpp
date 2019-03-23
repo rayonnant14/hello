@@ -1,5 +1,5 @@
 #include <iostream>
 int main(){
-	std::coun<<"Hello, world!"<<std::end1;
+	std::cout<<"Hello, world!"<<std::endl;
 	return 0;
 }
